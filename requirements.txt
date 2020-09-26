@@ -1,0 +1,2 @@
+flask
+black==20.8b1
